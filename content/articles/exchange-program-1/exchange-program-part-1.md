@@ -7,7 +7,7 @@ tags: [
     "markdown",
     "sample"
 ]
-image: "{{< figure src="Antwerp_One.jpg" title="Antwerp Sunrise" >}}"
+image: "Antwerp_One.jpg"
 ---
 # ADVENTURE III. A CASE OF IDENTITY
 
@@ -25,6 +25,8 @@ wonderful chains of events, working through generations, and
 leading to the most outré results, it would make all fiction with
 its conventionalities and foreseen conclusions most stale and
 unprofitable."
+
+{{< figure src="Antwerp_One.jpg" title="Antwerp Sunrise" >}}
 
 
 
