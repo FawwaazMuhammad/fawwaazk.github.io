@@ -16,6 +16,7 @@ image: "Antwerp_One.jpg"
 First Antwerp Picture
 
 ![Alt text](Antwerp_One.jpg "a title")
+<img src="Antwerp_One.jpg" alt="Alt text" title="a title" width="300" height="200">
 
 
 
