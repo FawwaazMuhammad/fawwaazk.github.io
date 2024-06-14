@@ -1,0 +1,29 @@
+<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
+    <a href="{{ .Permalink }}">
+        <div class="card h-100 single-post-card border">
+            <div class="card-body">
+
+                <h4 class="fw-bold post-title">{{ .Title }}</h4>
+                {{ if .Params.subtitle }}
+                <h4 class="post-subtitle">
+                    {{ .Params.subtitle }}
+                </h4>
+                {{ end }}
+
+                <p class="post-meta">
+                    {{ partial "post_meta_notes.html" . }}
+                </p>
+                {{ print }}
+                <div class="post-entry">
+
+                    {{ if .Description }}
+                    {{ .Description }}
+
+                    {{ else }}
+                    {{ .Summary }}
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
