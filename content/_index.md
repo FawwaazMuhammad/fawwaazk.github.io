@@ -3,4 +3,4 @@ picture: "https://avatars.githubusercontent.com/u/45286728?v=4"
 ---
 
 #### FAWWAAZ KOODRUTH
-A peek into my life as an IT enthusiast with stories and interests beyond the screen.
+I am a traditional seafood dish originating from Mauritius. I am made of crispy squid rings coated in breadcrumbs, fried till golden perfection.
