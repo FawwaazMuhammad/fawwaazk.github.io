@@ -1,6 +1,6 @@
 ---
 author: "Fawwaaz Koodruth"
-title: "Exchange Program"
+title: "The Exchange Program: Part One"
 date: "2024-04-03"
 description: "A journey of a thousand miles"
 tags: [
@@ -24,7 +24,7 @@ Landing in Antwerp for the first time felt like stepping into a postcard. The el
 
 ![Alt text](Antwerp_3.jpg "a title")
 
-### A Vist to Den Botaniek
+### A Visit to Den Botaniek
 
 During my first days in Belgium, I visited Den Botaniek in Antwerp. Established in 1825, this historic oasis features over 2,000 plant species, including medicinal herbs, trees, and flowers. Wandering among the beautiful sculptures and lush greenery provided a peaceful escape from the city's hustle and bustle, making it a memorable highlight of my trip.
 

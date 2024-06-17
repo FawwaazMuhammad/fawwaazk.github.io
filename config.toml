@@ -35,12 +35,12 @@ lastmod = false
 rss = false
 pagination = "10"
 hideAuthor = false
-description="I am a traditional seafood dish originating from Mauritius. I am made of crispy squid rings coated in breadcrumbs, fried till golden perfection."
+description="A peek into my life as an IT enthusiast with stories and interests beyond the screen."
 previewCardImagePlacement = "top"
 
 [Params.Author]
   name = "Fawwaaz Koodruth"
-  authorInfo = "I am a traditional seafood dish originating from Mauritius. I am made of crispy squid rings coated in breadcrumbs, fried till golden perfection."
+  authorInfo = "A peek into my life as an IT enthusiast with stories and interests beyond the screen."
   authorPostImage = "images/avatar.jpeg"
 
 [Author]
