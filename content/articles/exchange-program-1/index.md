@@ -1,7 +1,7 @@
 ---
 author: "Fawwaaz Koodruth"
 title: "The Exchange Program: Part One"
-date: "2024-04-03"
+date: "2024-06-17"
 description: "A journey of a thousand miles"
 tags: [
     "markdown",
